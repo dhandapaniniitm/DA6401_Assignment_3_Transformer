@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project implements the Transformer architecture (“Attention Is All You Need”) from scratch using PyTorch.
 
@@ -36,7 +36,7 @@ The implementation includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -50,7 +50,7 @@ The implementation includes:
 
 ---
 
-## 🧠 Training Pipeline (`train.py`)
+##  Training Pipeline (`train.py`)
 
 ### Core Features
 
@@ -90,7 +90,7 @@ Saves:
 
 ---
 
-## 📊 Experiment Tracking
+##  Experiment Tracking
 
 Logged via:
 
@@ -108,7 +108,7 @@ Tracked metrics:
 
 ---
 
-## ⚠️ Autograder Requirements
+##  Autograder Requirements
 
 Ensure the following:
 
@@ -136,7 +136,7 @@ model.infer(sentence)
 
 ---
 
-## ⚙️ Training Configuration
+##  Training Configuration
 
 | Parameter       | Description             | Example    |
 | --------------- | ----------------------- | ---------- |
@@ -161,7 +161,7 @@ model.infer(sentence)
 
 ---
 
-## 🚀 Sample Training Command
+##  Sample Training Command
 
 ```bash
 python train.py \
@@ -187,7 +187,7 @@ python train.py \
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project implements a full Transformer-based NMT system from scratch with:
 
