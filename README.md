@@ -14,7 +14,7 @@
 [WandB Experiment Report](https://wandb.ai/bt25s018-iitm/DA6401_Assignment3/reports/DA6401-Assignment_3_Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjkyMjA5Nw?accessToken=29jtimxmclx0dtorkreew71s9ib2gchksr10yxn752tvlab048g5vd7yy0utog6a)
 
 **Link to GitHub Repository:**
-[Project GitHub Repository](https://github.com/dhandapaniniitm/)
+[Project GitHub Repository](https://github.com/dhandapaniniitm/DA6401_Assignment_3_Transformer.git)
 
 ---
 
